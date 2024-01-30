@@ -68,8 +68,8 @@ class SqueakExt{
     return {
       id: 'SqueakExt',
       name: 'Back To Squeak (v1.0)',
-      color1: '#0FBD8C',
-      color2: '#0DA57A',
+      color1: '#EE4B2B',
+      color2: '##EE4B2B',
       menuIconURI: menuIconURI,
       blockIconURI: blockIconURI,
       blocks: [
