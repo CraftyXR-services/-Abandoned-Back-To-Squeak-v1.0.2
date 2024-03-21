@@ -82,6 +82,15 @@ class SqueakExt{
             }
           },
           text: 'Print [\Text\]'
+                  {
+          opcode: 'print',
+          blockType: BlockType.COMMAND,
+          arguments: {
+            \Text\: {
+              type: ArgumentType.NUMBER
+            }
+          },
+          text: 'Print [\NUMBER\]'
         }
       ]
     }
